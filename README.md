@@ -5,7 +5,7 @@ Manifest for treble gsi's.
 
 clone this repo in rom source.  
     
-    git clone https://github.com/naz664/treble_manifest.git .repo/local_manifests  -b 13
+    git clone https://github.com/MisterZtr/treble_manifest.git .repo/local_manifests  -b 13
   
 
 ------------------------------------------------------
@@ -13,13 +13,4 @@ clone this repo in rom source.
 You can modify the dependencies and packages according to your wish.
 
 ------------------------------------------------------
-
-
-
-Some roms have gapps by defualt,  
-In such cases you can remove the gapps.xml.
-
-```
-   rm -rf .repo/local_manifests/gapps.xml
-```   
 
