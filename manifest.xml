@@ -12,7 +12,7 @@
 
 <project path="packages/apps/QcRilAm" name="AndyCGYan/android_packages_apps_QcRilAm" remote="github" revision="master" />
 
-<project path="prebuilts/vndk/v28" name="platform/prebuilts/vndk/v28" remote="aosp" clone-depth="1" revision="204f1bad00aaf480ba33233f7b8c2ddaa03155dd" />
+<project path="prebuilts/vndk/v28" name="naz664/prebuilts_vndk_v28" remote="github" revision="master" />
 
 <project path="treble_adapter" name="ponces/treble_adapter" remote="github" revision="master" />
 </manifest>
