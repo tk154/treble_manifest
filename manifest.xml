@@ -6,7 +6,6 @@
 <project path="vendor/hardware_overlay" name="TrebleDroid/vendor_hardware_overlay" remote="github" revision="pie" />
 <project path="vendor/vndk-tests" name="phhusson/vendor_vndk-tests" remote="github" revision="master" />
 <project path="vendor/interfaces" name="TrebleDroid/vendor_interfaces" remote="github" revision="android-14.0" />
-<project name="TrebleDroid/treble_app" path="treble_app" remote="github" revision="master" />
 <project path="vendor/lptools" name="phhusson/vendor_lptools" remote="github" revision="master" />
 <project path="vendor/magisk" name="phhusson/vendor_magisk" remote="github" revision="android-10.0" />
 
